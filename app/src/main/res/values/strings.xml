@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Thirty Day Of Tasks</string>
+
+    <string name="day_1">Day 1</string>
+    <string name="day_2">Day 2</string>
+    <string name="day_3">Day 3</string>
+    <string name="day_4">Day 4</string>
+    <string name="day_5">Day 5</string>
+    <string name="day_6">Day 6</string>
+    <string name="day_7">Day 7</string>
+    <string name="day_8">Day 8</string>
+    <string name="day_9">Day 9</string>
+    <string name="day_10">Day 10</string>
+    <string name="day_11">Day 11</string>
+    <string name="day_12">Day 12</string>
+    <string name="day_13">Day 13</string>
+    <string name="day_14">Day 14</string>
+    <string name="day_15">Day 15</string>
+    <string name="day_16">Day 16</string>
+    <string name="day_17">Day 17</string>
+    <string name="day_18">Day 18</string>
+    <string name="day_19">Day 19</string>
+    <string name="day_20">Day 20</string>
+    <string name="day_21">Day 21</string>
+    <string name="day_22">Day 22</string>
+    <string name="day_23">Day 23</string>
+    <string name="day_24">Day 24</string>
+    <string name="day_25">Day 25</string>
+    <string name="day_26">Day 26</string>
+    <string name="day_27">Day 27</string>
+    <string name="day_28">Day 28</string>
+    <string name="day_29">Day 29</string>
+    <string name="day_30">Day 30</string>
+
+
+    <string name="the_task_of_prayer1">Someone who prays in reverence</string>
+    <string name="the_task_of_prayer2">A person is praying in a mosque</string>
+    <string name="the_task_of_prayer3">A young man prays properly in the mosque</string>
+    <string name="the_task_of_prayer4">An old man prays in the mosque</string>
+    <string name="the_task_of_prayer5">Pray, my friend, charity for charity</string>
+    <string name="the_task_of_prayer6">Don\t you see the beauty of the picture,</string>
+    <string name="the_task_of_prayer7">Come on my friend, it\s the prayer</string>
+    <string name="the_task_of_prayer8">God wants good for us, let\s go</string>
+    <string name="the_task_of_prayer9">Perhaps it is good, we do not know</string>
+    <string name="the_task_of_prayer10">Three old men are praying</string>
+    <string name="jop_chances1">Hurry up and prepare yourself to apply</string>
+    <string name="jop_chances2">Opportunities are available</string>
+    <string name="jop_chances3">Arrange your thoughts</string>
+    <string name="jop_chances4">Perhaps today you will be lucky to find your dream job</string>
+    <string name="day_out1">Get outside</string>
+    <string name="day_out2">You may want to go out for a number of reasons</string>
+    <string name="day_out3">Go out for a coffee or get some fresh air</string>
+    <string name="day_out4">Come on, it\s time to get out</string>
+    <string name="youtupe_video1">It\s time to record a video for your page</string>
+    <string name="youtupe_video2">Come on, formulate an idea and implement it</string>
+    <string name="youtupe_video3">Now that you have a good studio</string>
+    <string name="youtupe_video4">You have the advantage in what you do</string>
+    <string name="movie_night1">Relax while watching a movie</string>
+    <string name="movie_night2">Prepare the place</string>
+    <string name="movie_night3">Prepare your breakfast and food</string>
+    <string name="movie_night4">Come on, prepare popcorn</string>
+    <string name="course_night1">Start by identifying your weaknesses</string>
+    <string name="course_night2">Come on, review, maybe learn something new</string>
+    <string name="relax_day1">Do not do anything that bothers you</string>
+    <string name="relax_day2">Rest and relax</string>
+
+
+
+    <string name="the_description_of_prayer1">Someone who prays in reverence, you can do the same, just remember that God is merciful</string>
+    <string name="the_description_of_prayer2">A person is praying in a mosque, and the view is beautiful. The shape of the lighting from the window crosses to shed light on him</string>
+    <string name="the_description_of_prayer3">A young man prays properly in the mosque. Imagine his humility in the place. You need that feeling</string>
+    <string name="the_description_of_prayer4">An old man prays in the mosque. You can imitate him. Look at him praying in reverence</string>
+    <string name="the_description_of_prayer5">Pray, my friend, charity for charity, you may want to pray, but you don\t know what you want</string>
+    <string name="the_description_of_prayer6">Don\t you see the beauty of the picture, from the picture you feel reverence. Come on, my friend, let\s be in Gods hands</string>
+    <string name="the_description_of_prayer7">Come on my friend, it\s the prayer, maybe God wants you success in the next step</string>
+    <string name="the_description_of_prayer8">God wants good for us, let\s go, we need him and we need his love to be human</string>
+    <string name="the_description_of_prayer9">Perhaps it is good, we do not know, your confession that you are weak because you need God is the beginning of your faith in God, but you have to continue as if you have all the powers in the world because you believe that God is with you, so who is against you</string>
+    <string name="the_description_of_prayer10">Three old men are praying, and this means that there is nothing too old for his prayer. Whatever you are, you can return to God</string>
+    <string name="jop_chances_description1">Hurry up and prepare yourself to apply. Jobs in your field are available. You only need to search continuously</string>
+    <string name="jop_chances_description2">Opportunities are available, but you need to search for them, so come on, trust in yourself. You have been working hard for a long time to make money</string>
+    <string name="jop_chances_description3">Arrange your thoughts and come on, try to find a good job opportunity in your field that you can, thanks to God</string>
+    <string name="jop_chances_description4">Perhaps today you will be lucky to find your dream job. You can, God willing. I am tired. Come on, it is a simple extra effort that you can do to succeed.</string>
+    <string name="day_out_description1">Get outside, don\t wait, get outside and get some fresh air</string>
+    <string name="day_out_description2">You may want to go out for a number of reasons, so take a break from what you\re doing and get out</string>
+    <string name="day_out_description3">Go out for a coffee or get some fresh air and focus on what you\re doing</string>
+    <string name="day_out_description4">Come on, it\s time to get out. Roll outside, huh</string>
+    <string name="youtupe_video_description1">It\s time to record a video for your page. Come on, no one succeeded without getting tired, and you also want to try the new device in the montage</string>
+    <string name="youtupe_video_description2">Come on, formulate an idea and implement it. Do not wait for tomorrow. Perhaps tomorrow will not come unless you go to it</string>
+    <string name="youtupe_video_description3">Now that you have a good studio, you can appear in photography with a better appearance and record videos for your channel in a good mood</string>
+    <string name="youtupe_video_description4">You have the advantage in what you do. Remember that you have several things together. Come on, encourage and do what you can. You are supernatural only with your mind.</string>
+    <string name="movie_night_description1">Relax while watching a movie, choose the appropriate movie and enjoy your time</string>
+    <string name="movie_night_description2">Prepare the place and maybe you can invite some of your friends to watch a movie together</string>
+    <string name="movie_night_description3">Prepare your breakfast and food, choose your favorite movie, and enjoy your time. It\s movie night</string>
+    <string name="movie_night_description4">Come on, prepare popcorn, maybe you can watch a movie in a cinema or at home as you prefer</string>
+    <string name="course_night_description1">Start by identifying your weaknesses and strengths in your field of work, strengthen yourself, learn about the labor market, and other things that include your needs.</string>
+    <string name="course_night_description2">Come on, review, maybe learn something new, maybe you can benefit from something, you can make an application, come on, never stop</string>
+    <string name="relax_day_description1">Do not do anything that bothers you. Try to go to quiet places and sit alone. It is not an expression of sadness, but an attempt to understand yourself.</string>
+    <string name="relax_day_description2">Rest and relax, perhaps this will give you an advantage. To start quickly, you need to rest first, in order to maintain your fast launch as long as possible.</string>
+
+</resources>
